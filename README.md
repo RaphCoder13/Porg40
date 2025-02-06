@@ -28,4 +28,4 @@ A 40 keys low-profile split keyboardo, handwired and 3d printed.
 
 
 
-## Build Guide
+## Build notes
