@@ -62,7 +62,7 @@ From top to bottom:
 
 ### Assembly
 
-![Wiring](./img/Wiring.png)
+![Wiring](./img/wiring.png)
 The RP2040 is socketed with Mill-Max round pin header glued on the plate.
 I used 1mm enamelled copper wire for the rows and columns and very thin enamel wire to connect to the pin header, I wrap them around the pin header and solder them.
 
