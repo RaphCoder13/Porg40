@@ -1,5 +1,5 @@
 # Porg40
-A 40 keys low-profile split keyboardo, handwired and 3d printed.
+A 40 keys low-profile split keyboard, handwired and 3d printed.
 
 ![Porg40](./img/Main.png)
 
