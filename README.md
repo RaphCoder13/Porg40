@@ -64,6 +64,7 @@ From top to bottom:
 
 ![Wiring](./img/wiring.png)
 The RP2040 is socketed with Mill-Max round pin header glued on the plate.
+
 I used 1mm enamelled copper wire for the rows and columns and very thin enamel wire to connect to the pin header, I wrap them around the pin header and solder them.
 
 The trackpad is connected to a SMT adaptor with a 12 pin FPC cable.
@@ -77,6 +78,17 @@ After finding the good orientation, the NavSwitch support is glued to the plate.
 The led grid is glued to the cover, it must be aligned with the led matrix on the RP2040.
 
 Place the heat inserts in the cover and the plate, the standoffs maintain the cover on the plate and the plate on the case.
+
+### Transport
+
+![Transport](./img/Transport2.png)
+I used a 3D printed case to transport the keyboard, bento style. The case take into account the usb-c magnetic connector staying in place on the right side. An elastic velcro strap is used to hold everything together.
+
+
+## Credits and inspiration
+- Joe Scotto's videos on hand wiring.
+- Totem keyboard.
+
 
 ## License
 
