@@ -86,8 +86,9 @@ I used a 3D printed case to transport the keyboard, bento style. The case take i
 
 
 ## Credits and inspiration
-- Joe Scotto's videos on hand wiring.
-- Totem keyboard.
+- [Joe Scotto's videos](https://www.youtube.com/@joe_scotto) on hand wiring.
+- [Totem](https://github.com/GEIGEIGEIST/TOTEM) keyboard by GEIGEIGEIST.
+- Many other things I saw on [kbd.news](https://kbd.news) and reddit.
 
 
 ## License
