@@ -20,7 +20,7 @@ A 40 keys low-profile split keyboard, handwired and 3d printed.
 - 40x Nuphy Wisteria switches
 - 40x Tai-Hao MX low-profile keycaps
 - 40mm Cirque Trackpad
-- SMT adaptor and FPC cable for trackpad (12 pins)
+- FPC adaptor and cable for trackpad (12 pins)
 - 5-way switch
 - 44x ln4148 diodes
 - TRRS connectors and cable
@@ -69,6 +69,8 @@ I used 1mm enamelled copper wire for the rows and columns and very thin enamel w
 
 The trackpad is connected to a SMT adaptor with a 12 pin FPC cable.
 
+![Trackpad wiring](./img/Trackpad-wiring.png)
+Keep in mind that the order can be reversed if you use a forward or reverse direction FPC cable.
 
 ![RP2040 placement](./img/RP2040-Matrix.png)
 
